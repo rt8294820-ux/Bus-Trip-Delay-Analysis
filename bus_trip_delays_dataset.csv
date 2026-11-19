@@ -1,0 +1,601 @@
+trip_id,date,day_of_week,route,bus_id,origin,destination,scheduled_departure,actual_departure,scheduled_arrival,actual_arrival,weather,traffic_level,passenger_count
+T0001,2026-01-01,Thursday,R6,BUS035,University,Shopping Mall,07:00,07:01,07:38,07:39,Cloudy,Low,13
+T0002,2026-01-01,Thursday,R5,BUS002,Airport Road,City Centre,13:00,12:58,13:55,14:07,Clear,Low,43
+T0003,2026-01-01,Thursday,R2,BUS001,Railway Station,Tech Park,19:50,19:48,20:40,20:55,Cloudy,Medium,18
+T0004,2026-01-01,Thursday,R6,BUS007,University,Shopping Mall,13:20,13:20,13:58,14:04,Clear,Low,13
+T0005,2026-01-01,Thursday,R4,BUS025,Residential Area,Hospital,07:20,07:21,07:50,07:52,Cloudy,Medium,13
+T0006,2026-01-01,Thursday,R5,BUS005,Airport Road,City Centre,11:50,11:49,12:45,12:57,Clear,High,10
+T0007,2026-01-01,Thursday,R6,BUS024,University,Shopping Mall,09:20,09:20,09:58,10:14,Rainy,High,18
+T0008,2026-01-01,Thursday,R3,BUS011,Bus Terminal,Market Road,12:10,12:14,12:45,12:48,Cloudy,Medium,42
+T0009,2026-01-01,Thursday,R6,BUS004,University,Shopping Mall,09:10,09:10,09:48,09:55,Clear,Medium,22
+T0010,2026-01-01,Thursday,R1,BUS014,City Centre,University,20:20,20:17,21:02,21:08,Clear,Low,49
+T0011,2026-01-02,Friday,R4,BUS028,Residential Area,Hospital,13:50,13:51,14:20,14:27,Clear,Medium,45
+T0012,2026-01-02,Friday,R4,BUS006,Residential Area,Hospital,12:10,12:09,12:40,12:58,Rainy,Low,11
+T0013,2026-01-02,Friday,R1,BUS030,City Centre,University,08:50,08:49,09:32,09:34,Clear,Medium,41
+T0014,2026-01-02,Friday,R3,BUS022,Bus Terminal,Market Road,16:00,16:04,16:35,16:40,Cloudy,Low,15
+T0015,2026-01-02,Friday,R3,BUS033,Bus Terminal,Market Road,13:10,13:17,13:45,13:59,Clear,High,14
+T0016,2026-01-02,Friday,R6,BUS011,University,Shopping Mall,11:50,11:51,12:28,12:35,Clear,Low,42
+T0017,2026-01-02,Friday,R5,BUS020,Airport Road,City Centre,06:40,06:46,07:35,07:42,Clear,Low,23
+T0018,2026-01-02,Friday,R1,BUS005,City Centre,University,09:40,09:39,10:22,10:40,Rainy,Low,42
+T0019,2026-01-02,Friday,R2,BUS014,Railway Station,Tech Park,08:50,08:48,09:40,09:48,Clear,Medium,42
+T0020,2026-01-02,Friday,R6,BUS029,University,Shopping Mall,19:10,19:11,19:48,20:00,Cloudy,Medium,41
+T0021,2026-01-03,Saturday,R4,BUS004,Residential Area,Hospital,07:10,07:11,07:40,07:47,Clear,Medium,22
+T0022,2026-01-03,Saturday,R1,BUS014,City Centre,University,06:20,06:21,07:02,07:13,Clear,Low,42
+T0023,2026-01-03,Saturday,R2,BUS007,Railway Station,Tech Park,19:40,19:42,20:30,20:41,Clear,Low,50
+T0024,2026-01-03,Saturday,R4,BUS007,Residential Area,Hospital,12:30,12:30,13:00,13:07,Clear,High,11
+T0025,2026-01-03,Saturday,R4,BUS028,Residential Area,Hospital,19:20,19:23,19:50,19:53,Cloudy,Low,19
+T0026,2026-01-03,Saturday,R3,BUS004,Bus Terminal,Market Road,15:10,15:15,15:45,15:45,Cloudy,Low,49
+T0027,2026-01-03,Saturday,R5,BUS026,Airport Road,City Centre,06:00,06:00,06:55,07:13,Rainy,High,11
+T0028,2026-01-03,Saturday,R2,BUS019,Railway Station,Tech Park,13:00,13:03,13:50,14:11,Rainy,Medium,35
+T0029,2026-01-03,Saturday,R6,BUS035,University,Shopping Mall,19:40,19:40,20:18,20:25,Cloudy,Medium,11
+T0030,2026-01-03,Saturday,R6,BUS011,University,Shopping Mall,12:00,12:09,12:38,12:54,Clear,Medium,11
+T0031,2026-01-04,Sunday,R5,BUS016,Airport Road,City Centre,07:10,07:07,08:05,08:08,Clear,Low,45
+T0032,2026-01-04,Sunday,R5,BUS021,Airport Road,City Centre,06:40,06:46,07:35,07:51,Clear,Medium,24
+T0033,2026-01-04,Sunday,R2,BUS021,Railway Station,Tech Park,18:50,18:50,19:40,19:44,Clear,Medium,12
+T0034,2026-01-04,Sunday,R1,BUS035,City Centre,University,15:40,15:40,16:22,16:37,Rainy,High,21
+T0035,2026-01-04,Sunday,R5,BUS035,Airport Road,City Centre,11:10,11:10,12:05,12:25,Rainy,High,53
+T0036,2026-01-04,Sunday,R3,BUS007,Bus Terminal,Market Road,17:50,17:53,18:25,18:34,Clear,Medium,16
+T0037,2026-01-04,Sunday,R3,BUS014,Bus Terminal,Market Road,07:00,06:59,07:35,07:41,Cloudy,Low,51
+T0038,2026-01-04,Sunday,R6,BUS006,University,Shopping Mall,11:40,11:40,12:18,12:25,Clear,High,48
+T0039,2026-01-04,Sunday,R4,BUS028,Residential Area,Hospital,11:00,11:03,11:30,11:44,Clear,High,43
+T0040,2026-01-04,Sunday,R1,BUS035,City Centre,University,07:00,07:04,07:42,07:53,Rainy,Medium,10
+T0041,2026-01-05,Monday,R3,BUS003,Bus Terminal,Market Road,17:40,17:38,18:15,18:20,Clear,Low,30
+T0042,2026-01-05,Monday,R2,BUS010,Railway Station,Tech Park,18:10,18:17,19:00,19:14,Cloudy,Medium,23
+T0043,2026-01-05,Monday,R2,BUS016,Railway Station,Tech Park,20:10,20:12,21:00,21:13,Rainy,Low,25
+T0044,2026-01-05,Monday,R2,BUS015,Railway Station,Tech Park,20:50,20:49,21:40,22:01,Clear,High,20
+T0045,2026-01-05,Monday,R4,BUS022,Residential Area,Hospital,12:20,12:23,12:50,13:04,Cloudy,High,25
+T0046,2026-01-05,Monday,R1,BUS002,City Centre,University,20:20,20:22,21:02,21:12,Clear,Medium,15
+T0047,2026-01-05,Monday,R3,BUS021,Bus Terminal,Market Road,08:40,08:40,09:15,09:25,Rainy,Medium,35
+T0048,2026-01-05,Monday,R5,BUS003,Airport Road,City Centre,16:00,16:00,16:55,17:03,Clear,Medium,53
+T0049,2026-01-05,Monday,R4,BUS022,Residential Area,Hospital,06:40,06:41,07:10,07:23,Rainy,Medium,47
+T0050,2026-01-05,Monday,R3,BUS027,Bus Terminal,Market Road,18:00,18:02,18:35,18:45,Cloudy,Medium,28
+T0051,2026-01-06,Tuesday,R4,BUS020,Residential Area,Hospital,19:20,19:20,19:50,19:58,Clear,Low,33
+T0052,2026-01-06,Tuesday,R5,BUS030,Airport Road,City Centre,06:20,06:17,07:15,07:25,Clear,Medium,36
+T0053,2026-01-06,Tuesday,R4,BUS022,Residential Area,Hospital,18:10,18:10,18:40,18:51,Clear,High,13
+T0054,2026-01-06,Tuesday,R2,BUS003,Railway Station,Tech Park,18:20,18:20,19:10,19:06,Clear,Low,23
+T0055,2026-01-06,Tuesday,R4,BUS026,Residential Area,Hospital,17:00,17:01,17:30,17:42,Clear,High,23
+T0056,2026-01-06,Tuesday,R2,BUS028,Railway Station,Tech Park,18:50,18:50,19:40,19:49,Clear,High,22
+T0057,2026-01-06,Tuesday,R2,BUS009,Railway Station,Tech Park,20:50,20:53,21:40,21:43,Clear,Low,37
+T0058,2026-01-06,Tuesday,R6,BUS033,University,Shopping Mall,16:40,16:41,17:18,17:38,Clear,High,35
+T0059,2026-01-06,Tuesday,R5,BUS018,Airport Road,City Centre,15:10,15:12,16:05,16:14,Cloudy,Medium,41
+T0060,2026-01-06,Tuesday,R4,BUS016,Residential Area,Hospital,18:10,18:07,18:40,18:45,Clear,Low,25
+T0061,2026-01-07,Wednesday,R3,BUS005,Bus Terminal,Market Road,12:40,12:40,13:15,13:23,Clear,Low,34
+T0062,2026-01-07,Wednesday,R4,BUS025,Residential Area,Hospital,12:40,12:38,13:10,13:19,Clear,Low,45
+T0063,2026-01-07,Wednesday,R6,BUS027,University,Shopping Mall,06:40,06:41,07:18,07:25,Clear,Low,42
+T0064,2026-01-07,Wednesday,R6,BUS015,University,Shopping Mall,19:40,19:44,20:18,20:40,Cloudy,High,25
+T0065,2026-01-07,Wednesday,R4,BUS009,Residential Area,Hospital,15:00,15:01,15:30,15:42,Clear,Medium,47
+T0066,2026-01-07,Wednesday,R5,BUS028,Airport Road,City Centre,06:30,06:27,07:25,07:27,Clear,Medium,16
+T0067,2026-01-07,Wednesday,R4,BUS025,Residential Area,Hospital,08:00,08:00,08:30,08:44,Clear,Medium,25
+T0068,2026-01-07,Wednesday,R4,BUS023,Residential Area,Hospital,11:00,11:06,11:30,11:31,Clear,Medium,22
+T0069,2026-01-07,Wednesday,R6,BUS010,University,Shopping Mall,07:50,07:52,08:28,08:31,Clear,Low,23
+T0070,2026-01-07,Wednesday,R2,BUS017,Railway Station,Tech Park,15:50,15:52,16:40,17:00,Clear,High,31
+T0071,2026-01-08,Thursday,R2,BUS002,Railway Station,Tech Park,17:40,17:43,18:30,18:42,Rainy,Medium,27
+T0072,2026-01-08,Thursday,R5,BUS016,Airport Road,City Centre,18:30,18:31,19:25,19:27,Clear,Medium,14
+T0073,2026-01-08,Thursday,R6,BUS003,University,Shopping Mall,20:20,20:23,20:58,21:02,Cloudy,Medium,30
+T0074,2026-01-08,Thursday,R5,BUS001,Airport Road,City Centre,13:50,13:49,14:45,14:55,Clear,Medium,34
+T0075,2026-01-08,Thursday,R4,BUS034,Residential Area,Hospital,07:30,07:31,08:00,08:21,Rainy,Medium,49
+T0076,2026-01-08,Thursday,R3,BUS021,Bus Terminal,Market Road,17:40,17:39,18:15,18:24,Cloudy,Medium,23
+T0077,2026-01-08,Thursday,R1,BUS021,City Centre,University,11:30,11:30,12:12,12:24,Clear,Medium,19
+T0078,2026-01-08,Thursday,R4,BUS001,Residential Area,Hospital,09:20,09:24,09:50,09:59,Cloudy,Medium,41
+T0079,2026-01-08,Thursday,R2,BUS032,Railway Station,Tech Park,07:10,07:10,08:00,08:08,Cloudy,Medium,36
+T0080,2026-01-08,Thursday,R1,BUS024,City Centre,University,07:20,07:18,08:02,08:11,Clear,Medium,38
+T0081,2026-01-09,Friday,R5,BUS020,Airport Road,City Centre,16:20,16:20,17:15,17:25,Clear,Medium,24
+T0082,2026-01-09,Friday,R2,BUS013,Railway Station,Tech Park,07:50,07:54,08:40,08:41,Clear,Low,21
+T0083,2026-01-09,Friday,R6,BUS013,University,Shopping Mall,15:20,15:17,15:58,16:21,Cloudy,High,26
+T0084,2026-01-09,Friday,R2,BUS018,Railway Station,Tech Park,12:10,12:08,13:00,13:04,Clear,Medium,10
+T0085,2026-01-09,Friday,R1,BUS019,City Centre,University,16:20,16:22,17:02,17:14,Cloudy,Low,38
+T0086,2026-01-09,Friday,R4,BUS008,Residential Area,Hospital,15:20,15:22,15:50,16:01,Clear,Low,12
+T0087,2026-01-09,Friday,R4,BUS020,Residential Area,Hospital,15:00,15:04,15:30,15:34,Clear,Medium,13
+T0088,2026-01-09,Friday,R2,BUS034,Railway Station,Tech Park,07:40,07:45,08:30,08:38,Cloudy,Medium,32
+T0089,2026-01-09,Friday,R4,BUS007,Residential Area,Hospital,15:20,15:21,15:50,16:06,Cloudy,High,21
+T0090,2026-01-09,Friday,R6,BUS005,University,Shopping Mall,09:20,09:21,09:58,10:00,Cloudy,Low,18
+T0091,2026-01-10,Saturday,R1,BUS030,City Centre,University,13:30,13:32,14:12,14:14,Cloudy,Medium,12
+T0092,2026-01-10,Saturday,R6,BUS028,University,Shopping Mall,09:20,09:26,09:58,10:05,Cloudy,Medium,15
+T0093,2026-01-10,Saturday,R5,BUS020,Airport Road,City Centre,09:50,09:53,10:45,10:49,Clear,Medium,46
+T0094,2026-01-10,Saturday,R6,BUS026,University,Shopping Mall,17:20,17:22,17:58,18:07,Clear,Medium,25
+T0095,2026-01-10,Saturday,R5,BUS002,Airport Road,City Centre,16:30,16:31,17:25,17:38,Clear,Medium,13
+T0096,2026-01-10,Saturday,R2,BUS003,Railway Station,Tech Park,18:40,18:38,19:30,19:34,Clear,Low,19
+T0097,2026-01-10,Saturday,R4,BUS006,Residential Area,Hospital,16:50,16:50,17:20,17:33,Clear,Medium,38
+T0098,2026-01-10,Saturday,R3,BUS022,Bus Terminal,Market Road,13:20,13:20,13:55,13:56,Clear,Low,34
+T0099,2026-01-10,Saturday,R6,BUS021,University,Shopping Mall,15:20,15:20,15:58,16:00,Cloudy,Medium,15
+T0100,2026-01-10,Saturday,R4,BUS004,Residential Area,Hospital,16:00,16:02,16:30,16:44,Cloudy,Medium,20
+T0101,2026-01-11,Sunday,R5,BUS019,Airport Road,City Centre,12:40,12:43,13:35,13:37,Cloudy,Medium,36
+T0102,2026-01-11,Sunday,R6,BUS011,University,Shopping Mall,15:00,15:05,15:38,15:45,Clear,Medium,27
+T0103,2026-01-11,Sunday,R5,BUS010,Airport Road,City Centre,06:40,06:40,07:35,07:34,Clear,Low,39
+T0104,2026-01-11,Sunday,R6,BUS031,University,Shopping Mall,11:40,11:42,12:18,12:34,Cloudy,Medium,23
+T0105,2026-01-11,Sunday,R4,BUS005,Residential Area,Hospital,16:10,16:11,16:40,17:02,Clear,High,25
+T0106,2026-01-11,Sunday,R4,BUS032,Residential Area,Hospital,12:40,12:40,13:10,13:15,Clear,Low,17
+T0107,2026-01-11,Sunday,R4,BUS013,Residential Area,Hospital,16:30,16:30,17:00,17:12,Clear,Medium,52
+T0108,2026-01-11,Sunday,R2,BUS021,Railway Station,Tech Park,17:30,17:32,18:20,18:27,Clear,High,55
+T0109,2026-01-11,Sunday,R4,BUS033,Residential Area,Hospital,19:30,19:31,20:00,20:04,Clear,Medium,45
+T0110,2026-01-11,Sunday,R3,BUS010,Bus Terminal,Market Road,07:30,07:32,08:05,08:11,Clear,High,34
+T0111,2026-01-12,Monday,R6,BUS006,University,Shopping Mall,08:00,08:00,08:38,08:54,Clear,High,29
+T0112,2026-01-12,Monday,R6,BUS035,University,Shopping Mall,16:30,16:30,17:08,17:30,Rainy,Medium,10
+T0113,2026-01-12,Monday,R5,BUS007,Airport Road,City Centre,07:10,07:11,08:05,08:18,Clear,High,48
+T0114,2026-01-12,Monday,R6,BUS003,University,Shopping Mall,07:30,07:29,08:08,08:08,Clear,Medium,28
+T0115,2026-01-12,Monday,R1,BUS012,City Centre,University,11:20,11:19,12:02,12:14,Clear,Low,18
+T0116,2026-01-12,Monday,R2,BUS032,Railway Station,Tech Park,07:40,07:44,08:30,08:38,Cloudy,Medium,45
+T0117,2026-01-12,Monday,R2,BUS019,Railway Station,Tech Park,09:30,09:34,10:20,10:20,Clear,Medium,51
+T0118,2026-01-12,Monday,R5,BUS028,Airport Road,City Centre,08:00,08:00,08:55,09:04,Clear,Medium,52
+T0119,2026-01-12,Monday,R3,BUS023,Bus Terminal,Market Road,15:20,15:24,15:55,16:10,Clear,Medium,44
+T0120,2026-01-12,Monday,R3,BUS018,Bus Terminal,Market Road,19:20,19:23,19:55,20:13,Clear,High,8
+T0121,2026-01-13,Tuesday,R5,BUS015,Airport Road,City Centre,18:50,18:55,19:45,20:13,Rainy,High,46
+T0122,2026-01-13,Tuesday,R3,BUS007,Bus Terminal,Market Road,09:50,09:47,10:25,10:29,Clear,Medium,48
+T0123,2026-01-13,Tuesday,R6,BUS019,University,Shopping Mall,06:20,06:21,06:58,07:06,Cloudy,Low,28
+T0124,2026-01-13,Tuesday,R6,BUS034,University,Shopping Mall,13:10,13:10,13:48,14:05,Clear,High,40
+T0125,2026-01-13,Tuesday,R3,BUS008,Bus Terminal,Market Road,08:20,08:21,08:55,09:17,Rainy,High,37
+T0126,2026-01-13,Tuesday,R1,BUS024,City Centre,University,08:10,08:10,08:52,09:05,Cloudy,Medium,13
+T0127,2026-01-13,Tuesday,R4,BUS024,Residential Area,Hospital,06:20,06:18,06:50,06:58,Clear,Medium,14
+T0128,2026-01-13,Tuesday,R6,BUS015,University,Shopping Mall,09:30,09:30,10:08,10:24,Clear,High,49
+T0129,2026-01-13,Tuesday,R1,BUS003,City Centre,University,18:30,18:32,19:12,19:32,Rainy,Medium,27
+T0130,2026-01-13,Tuesday,R4,BUS030,Residential Area,Hospital,07:00,07:02,07:30,07:42,Clear,Medium,31
+T0131,2026-01-14,Wednesday,R6,BUS032,University,Shopping Mall,19:50,19:55,20:28,20:39,Rainy,Medium,47
+T0132,2026-01-14,Wednesday,R4,BUS016,Residential Area,Hospital,11:00,11:00,11:30,11:41,Cloudy,Low,31
+T0133,2026-01-14,Wednesday,R1,BUS008,City Centre,University,18:20,18:24,19:02,19:19,Clear,High,37
+T0134,2026-01-14,Wednesday,R1,BUS004,City Centre,University,18:10,18:12,18:52,18:52,Clear,Medium,29
+T0135,2026-01-14,Wednesday,R2,BUS015,Railway Station,Tech Park,08:40,08:38,09:30,09:42,Clear,High,29
+T0136,2026-01-14,Wednesday,R2,BUS009,Railway Station,Tech Park,20:40,20:40,21:30,21:40,Clear,High,42
+T0137,2026-01-14,Wednesday,R3,BUS016,Bus Terminal,Market Road,20:10,20:17,20:45,20:55,Clear,High,45
+T0138,2026-01-14,Wednesday,R3,BUS034,Bus Terminal,Market Road,06:10,06:12,06:45,06:54,Clear,Low,15
+T0139,2026-01-14,Wednesday,R6,BUS003,University,Shopping Mall,07:30,07:30,08:08,08:11,Clear,Medium,54
+T0140,2026-01-14,Wednesday,R6,BUS031,University,Shopping Mall,16:20,16:22,16:58,17:05,Clear,High,33
+T0141,2026-01-15,Thursday,R4,BUS010,Residential Area,Hospital,18:00,18:04,18:30,18:38,Clear,High,12
+T0142,2026-01-15,Thursday,R2,BUS025,Railway Station,Tech Park,11:40,11:40,12:30,12:40,Clear,Medium,46
+T0143,2026-01-15,Thursday,R5,BUS014,Airport Road,City Centre,11:30,11:34,12:25,12:28,Clear,Medium,35
+T0144,2026-01-15,Thursday,R4,BUS007,Residential Area,Hospital,09:30,09:29,10:00,10:13,Clear,Medium,28
+T0145,2026-01-15,Thursday,R4,BUS006,Residential Area,Hospital,12:50,12:57,13:20,13:41,Clear,High,35
+T0146,2026-01-15,Thursday,R1,BUS022,City Centre,University,19:50,19:54,20:32,20:29,Clear,Low,50
+T0147,2026-01-15,Thursday,R1,BUS019,City Centre,University,13:20,13:25,14:02,14:22,Cloudy,High,46
+T0148,2026-01-15,Thursday,R3,BUS015,Bus Terminal,Market Road,12:00,11:59,12:35,12:46,Clear,Low,14
+T0149,2026-01-15,Thursday,R3,BUS002,Bus Terminal,Market Road,16:20,16:24,16:55,17:02,Clear,Medium,46
+T0150,2026-01-15,Thursday,R6,BUS022,University,Shopping Mall,19:20,19:17,19:58,20:07,Clear,Medium,30
+T0151,2026-01-16,Friday,R1,BUS006,City Centre,University,08:10,08:11,08:52,08:56,Clear,Medium,55
+T0152,2026-01-16,Friday,R5,BUS020,Airport Road,City Centre,09:30,09:27,10:25,10:36,Clear,Medium,54
+T0153,2026-01-16,Friday,R3,BUS006,Bus Terminal,Market Road,20:40,20:44,21:15,21:25,Clear,High,25
+T0154,2026-01-16,Friday,R4,BUS014,Residential Area,Hospital,18:30,18:35,19:00,19:08,Clear,Medium,40
+T0155,2026-01-16,Friday,R1,BUS015,City Centre,University,12:30,12:30,13:12,13:27,Clear,Medium,33
+T0156,2026-01-16,Friday,R5,BUS017,Airport Road,City Centre,06:00,06:01,06:55,07:05,Clear,High,26
+T0157,2026-01-16,Friday,R3,BUS033,Bus Terminal,Market Road,07:00,06:59,07:35,07:39,Clear,Medium,43
+T0158,2026-01-16,Friday,R6,BUS028,University,Shopping Mall,20:20,20:25,20:58,21:05,Clear,High,9
+T0159,2026-01-16,Friday,R4,BUS021,Residential Area,Hospital,07:20,07:21,07:50,08:03,Clear,Medium,18
+T0160,2026-01-16,Friday,R5,BUS016,Airport Road,City Centre,15:50,15:54,16:45,16:51,Rainy,Low,35
+T0161,2026-01-17,Saturday,R5,BUS005,Airport Road,City Centre,13:40,13:42,14:35,14:51,Clear,High,40
+T0162,2026-01-17,Saturday,R6,BUS023,University,Shopping Mall,07:40,07:47,08:18,08:35,Clear,High,54
+T0163,2026-01-17,Saturday,R6,BUS005,University,Shopping Mall,08:10,08:08,08:48,08:53,Clear,Medium,19
+T0164,2026-01-17,Saturday,R6,BUS021,University,Shopping Mall,15:30,15:29,16:08,16:29,Cloudy,High,48
+T0165,2026-01-17,Saturday,R3,BUS023,Bus Terminal,Market Road,08:30,08:33,09:05,09:14,Clear,Medium,40
+T0166,2026-01-17,Saturday,R1,BUS005,City Centre,University,11:30,11:29,12:12,12:17,Clear,Low,49
+T0167,2026-01-17,Saturday,R1,BUS013,City Centre,University,17:40,17:37,18:22,18:23,Clear,Medium,28
+T0168,2026-01-17,Saturday,R5,BUS022,Airport Road,City Centre,15:40,15:43,16:35,16:34,Clear,Low,53
+T0169,2026-01-17,Saturday,R1,BUS011,City Centre,University,16:50,16:55,17:32,17:42,Clear,Low,31
+T0170,2026-01-17,Saturday,R3,BUS022,Bus Terminal,Market Road,11:30,11:31,12:05,12:06,Clear,Medium,12
+T0171,2026-01-18,Sunday,R3,BUS010,Bus Terminal,Market Road,07:40,07:40,08:15,08:20,Cloudy,Medium,30
+T0172,2026-01-18,Sunday,R3,BUS020,Bus Terminal,Market Road,18:50,18:55,19:25,19:24,Cloudy,Low,43
+T0173,2026-01-18,Sunday,R4,BUS033,Residential Area,Hospital,18:20,18:25,18:50,19:07,Cloudy,Medium,31
+T0174,2026-01-18,Sunday,R1,BUS013,City Centre,University,12:20,12:24,13:02,13:13,Clear,Low,22
+T0175,2026-01-18,Sunday,R2,BUS034,Railway Station,Tech Park,08:00,08:02,08:50,09:12,Clear,High,10
+T0176,2026-01-18,Sunday,R6,BUS012,University,Shopping Mall,12:40,12:37,13:18,13:23,Clear,Medium,52
+T0177,2026-01-18,Sunday,R5,BUS029,Airport Road,City Centre,20:10,20:11,21:05,21:13,Cloudy,Low,47
+T0178,2026-01-18,Sunday,R3,BUS020,Bus Terminal,Market Road,20:50,20:50,21:25,21:29,Cloudy,Low,38
+T0179,2026-01-18,Sunday,R2,BUS033,Railway Station,Tech Park,12:50,12:52,13:40,14:07,Rainy,High,41
+T0180,2026-01-18,Sunday,R4,BUS004,Residential Area,Hospital,08:10,08:07,08:40,08:45,Cloudy,Low,49
+T0181,2026-01-19,Monday,R4,BUS011,Residential Area,Hospital,12:40,12:43,13:10,13:33,Rainy,Medium,25
+T0182,2026-01-19,Monday,R4,BUS029,Residential Area,Hospital,16:10,16:10,16:40,16:44,Cloudy,Low,30
+T0183,2026-01-19,Monday,R1,BUS002,City Centre,University,13:00,13:04,13:42,13:54,Clear,Medium,28
+T0184,2026-01-19,Monday,R1,BUS019,City Centre,University,19:50,19:51,20:32,20:29,Clear,Low,38
+T0185,2026-01-19,Monday,R6,BUS010,University,Shopping Mall,08:50,08:54,09:28,09:30,Clear,Medium,43
+T0186,2026-01-19,Monday,R6,BUS020,University,Shopping Mall,17:40,17:42,18:18,18:31,Clear,High,15
+T0187,2026-01-19,Monday,R1,BUS035,City Centre,University,09:30,09:36,10:12,10:14,Clear,Medium,9
+T0188,2026-01-19,Monday,R6,BUS001,University,Shopping Mall,16:40,16:46,17:18,17:27,Clear,Low,47
+T0189,2026-01-19,Monday,R3,BUS034,Bus Terminal,Market Road,09:40,09:40,10:15,10:17,Clear,Medium,42
+T0190,2026-01-19,Monday,R5,BUS003,Airport Road,City Centre,20:40,20:41,21:35,21:50,Clear,Medium,48
+T0191,2026-01-20,Tuesday,R4,BUS007,Residential Area,Hospital,12:20,12:20,12:50,12:53,Cloudy,Medium,45
+T0192,2026-01-20,Tuesday,R6,BUS012,University,Shopping Mall,20:20,20:26,20:58,21:08,Clear,Medium,51
+T0193,2026-01-20,Tuesday,R4,BUS003,Residential Area,Hospital,19:30,19:30,20:00,20:08,Clear,High,26
+T0194,2026-01-20,Tuesday,R2,BUS033,Railway Station,Tech Park,06:10,06:07,07:00,07:16,Rainy,Medium,33
+T0195,2026-01-20,Tuesday,R5,BUS022,Airport Road,City Centre,15:20,15:19,16:15,16:24,Clear,Medium,25
+T0196,2026-01-20,Tuesday,R1,BUS025,City Centre,University,20:20,20:26,21:02,21:16,Clear,Medium,29
+T0197,2026-01-20,Tuesday,R2,BUS028,Railway Station,Tech Park,15:50,15:51,16:40,17:02,Clear,High,13
+T0198,2026-01-20,Tuesday,R4,BUS021,Residential Area,Hospital,17:10,17:13,17:40,17:42,Clear,Medium,50
+T0199,2026-01-20,Tuesday,R3,BUS023,Bus Terminal,Market Road,11:30,11:31,12:05,12:19,Clear,Medium,47
+T0200,2026-01-20,Tuesday,R4,BUS026,Residential Area,Hospital,11:50,11:52,12:20,12:35,Rainy,High,31
+T0201,2026-01-21,Wednesday,R5,BUS029,Airport Road,City Centre,20:50,20:54,21:45,21:56,Cloudy,High,10
+T0202,2026-01-21,Wednesday,R2,BUS003,Railway Station,Tech Park,07:10,07:09,08:00,08:13,Cloudy,Medium,46
+T0203,2026-01-21,Wednesday,R2,BUS026,Railway Station,Tech Park,18:30,18:29,19:20,19:29,Rainy,Medium,28
+T0204,2026-01-21,Wednesday,R6,BUS032,University,Shopping Mall,11:10,11:10,11:48,11:56,Rainy,Low,41
+T0205,2026-01-21,Wednesday,R4,BUS032,Residential Area,Hospital,16:00,16:02,16:30,16:44,Clear,Medium,20
+T0206,2026-01-21,Wednesday,R1,BUS006,City Centre,University,08:00,08:06,08:42,09:02,Clear,High,51
+T0207,2026-01-21,Wednesday,R3,BUS012,Bus Terminal,Market Road,18:20,18:26,18:55,19:05,Cloudy,Medium,31
+T0208,2026-01-21,Wednesday,R5,BUS032,Airport Road,City Centre,09:00,08:59,09:55,10:15,Rainy,High,9
+T0209,2026-01-21,Wednesday,R3,BUS020,Bus Terminal,Market Road,16:40,16:41,17:15,17:25,Clear,High,33
+T0210,2026-01-21,Wednesday,R6,BUS009,University,Shopping Mall,19:30,19:31,20:08,20:16,Clear,High,28
+T0211,2026-01-22,Thursday,R6,BUS012,University,Shopping Mall,07:30,07:35,08:08,08:12,Clear,Medium,16
+T0212,2026-01-22,Thursday,R4,BUS011,Residential Area,Hospital,16:00,15:59,16:30,16:40,Cloudy,Medium,18
+T0213,2026-01-22,Thursday,R3,BUS018,Bus Terminal,Market Road,19:10,19:13,19:45,20:00,Clear,High,16
+T0214,2026-01-22,Thursday,R6,BUS010,University,Shopping Mall,11:40,11:40,12:18,12:23,Clear,Medium,18
+T0215,2026-01-22,Thursday,R6,BUS003,University,Shopping Mall,17:50,17:52,18:28,18:36,Rainy,Medium,49
+T0216,2026-01-22,Thursday,R5,BUS032,Airport Road,City Centre,11:50,11:51,12:45,12:45,Clear,Medium,48
+T0217,2026-01-22,Thursday,R5,BUS004,Airport Road,City Centre,11:50,11:51,12:45,13:04,Rainy,Medium,18
+T0218,2026-01-22,Thursday,R4,BUS021,Residential Area,Hospital,13:30,13:33,14:00,14:04,Clear,Medium,53
+T0219,2026-01-22,Thursday,R3,BUS016,Bus Terminal,Market Road,19:20,19:20,19:55,20:09,Rainy,Low,37
+T0220,2026-01-22,Thursday,R1,BUS025,City Centre,University,11:30,11:31,12:12,12:17,Clear,Low,47
+T0221,2026-01-23,Friday,R4,BUS033,Residential Area,Hospital,09:10,09:12,09:40,09:57,Cloudy,High,37
+T0222,2026-01-23,Friday,R4,BUS030,Residential Area,Hospital,11:30,11:33,12:00,12:22,Clear,High,23
+T0223,2026-01-23,Friday,R2,BUS007,Railway Station,Tech Park,17:20,17:21,18:10,18:25,Clear,Medium,35
+T0224,2026-01-23,Friday,R2,BUS026,Railway Station,Tech Park,11:50,11:52,12:40,12:41,Clear,Medium,11
+T0225,2026-01-23,Friday,R5,BUS018,Airport Road,City Centre,16:10,16:07,17:05,17:17,Clear,Medium,47
+T0226,2026-01-23,Friday,R6,BUS022,University,Shopping Mall,17:00,17:01,17:38,17:45,Clear,Low,43
+T0227,2026-01-23,Friday,R3,BUS022,Bus Terminal,Market Road,20:10,20:12,20:45,21:01,Clear,Medium,38
+T0228,2026-01-23,Friday,R5,BUS021,Airport Road,City Centre,15:10,15:12,16:05,16:15,Clear,Medium,18
+T0229,2026-01-23,Friday,R4,BUS020,Residential Area,Hospital,17:50,17:53,18:20,18:37,Cloudy,Medium,38
+T0230,2026-01-23,Friday,R1,BUS002,City Centre,University,12:20,12:19,13:02,13:18,Cloudy,High,46
+T0231,2026-01-24,Saturday,R4,BUS011,Residential Area,Hospital,11:50,11:51,12:20,12:34,Cloudy,High,41
+T0232,2026-01-24,Saturday,R6,BUS003,University,Shopping Mall,19:40,19:39,20:18,20:26,Cloudy,Medium,44
+T0233,2026-01-24,Saturday,R6,BUS033,University,Shopping Mall,07:10,07:10,07:48,07:52,Clear,Medium,47
+T0234,2026-01-24,Saturday,R4,BUS021,Residential Area,Hospital,19:50,19:53,20:20,20:22,Clear,Low,50
+T0235,2026-01-24,Saturday,R4,BUS017,Residential Area,Hospital,16:30,16:28,17:00,17:06,Clear,Low,47
+T0236,2026-01-24,Saturday,R4,BUS019,Residential Area,Hospital,09:10,09:10,09:40,09:49,Clear,Medium,53
+T0237,2026-01-24,Saturday,R2,BUS035,Railway Station,Tech Park,19:50,19:51,20:40,20:48,Clear,Medium,32
+T0238,2026-01-24,Saturday,R4,BUS023,Residential Area,Hospital,12:10,12:15,12:40,12:42,Clear,Medium,36
+T0239,2026-01-24,Saturday,R6,BUS009,University,Shopping Mall,11:50,11:56,12:28,12:32,Clear,Low,14
+T0240,2026-01-24,Saturday,R5,BUS015,Airport Road,City Centre,19:40,19:40,20:35,20:47,Clear,Low,48
+T0241,2026-01-25,Sunday,R2,BUS011,Railway Station,Tech Park,06:00,06:01,06:50,06:53,Clear,Medium,34
+T0242,2026-01-25,Sunday,R6,BUS021,University,Shopping Mall,15:30,15:30,16:08,16:24,Cloudy,High,26
+T0243,2026-01-25,Sunday,R6,BUS012,University,Shopping Mall,06:00,06:03,06:38,06:36,Cloudy,Low,10
+T0244,2026-01-25,Sunday,R4,BUS003,Residential Area,Hospital,20:30,20:31,21:00,21:09,Clear,Medium,8
+T0245,2026-01-25,Sunday,R3,BUS034,Bus Terminal,Market Road,17:40,17:38,18:15,18:30,Clear,High,39
+T0246,2026-01-25,Sunday,R2,BUS011,Railway Station,Tech Park,16:30,16:33,17:20,17:36,Clear,High,54
+T0247,2026-01-25,Sunday,R4,BUS013,Residential Area,Hospital,18:20,18:22,18:50,18:57,Cloudy,Low,19
+T0248,2026-01-25,Sunday,R5,BUS026,Airport Road,City Centre,18:30,18:29,19:25,19:28,Cloudy,Medium,50
+T0249,2026-01-25,Sunday,R1,BUS018,City Centre,University,08:10,08:11,08:52,08:58,Clear,High,29
+T0250,2026-01-25,Sunday,R3,BUS016,Bus Terminal,Market Road,17:50,17:54,18:25,18:36,Clear,Medium,11
+T0251,2026-01-26,Monday,R6,BUS020,University,Shopping Mall,07:30,07:37,08:08,08:24,Clear,Medium,52
+T0252,2026-01-26,Monday,R1,BUS031,City Centre,University,18:20,18:20,19:02,19:02,Clear,Low,17
+T0253,2026-01-26,Monday,R4,BUS014,Residential Area,Hospital,19:40,19:42,20:10,20:25,Clear,Medium,23
+T0254,2026-01-26,Monday,R6,BUS034,University,Shopping Mall,20:40,20:37,21:18,21:29,Cloudy,Low,53
+T0255,2026-01-26,Monday,R3,BUS011,Bus Terminal,Market Road,07:40,07:43,08:15,08:37,Clear,High,28
+T0256,2026-01-26,Monday,R5,BUS006,Airport Road,City Centre,15:00,15:05,15:55,16:11,Cloudy,Medium,40
+T0257,2026-01-26,Monday,R4,BUS020,Residential Area,Hospital,20:00,19:59,20:30,20:44,Clear,Medium,54
+T0258,2026-01-26,Monday,R1,BUS003,City Centre,University,13:20,13:20,14:02,14:05,Cloudy,Medium,35
+T0259,2026-01-26,Monday,R3,BUS019,Bus Terminal,Market Road,19:00,19:05,19:35,19:33,Clear,Low,34
+T0260,2026-01-26,Monday,R2,BUS024,Railway Station,Tech Park,20:10,20:11,21:00,21:20,Cloudy,High,32
+T0261,2026-01-27,Tuesday,R4,BUS012,Residential Area,Hospital,13:30,13:30,14:00,14:10,Clear,High,42
+T0262,2026-01-27,Tuesday,R4,BUS002,Residential Area,Hospital,16:10,16:10,16:40,16:37,Cloudy,Low,27
+T0263,2026-01-27,Tuesday,R4,BUS018,Residential Area,Hospital,18:50,18:52,19:20,19:27,Clear,Medium,20
+T0264,2026-01-27,Tuesday,R6,BUS016,University,Shopping Mall,20:00,20:04,20:38,20:38,Clear,Medium,21
+T0265,2026-01-27,Tuesday,R1,BUS029,City Centre,University,07:40,07:42,08:22,08:23,Clear,Medium,22
+T0266,2026-01-27,Tuesday,R5,BUS021,Airport Road,City Centre,09:00,09:02,09:55,10:08,Clear,High,44
+T0267,2026-01-27,Tuesday,R5,BUS027,Airport Road,City Centre,20:50,20:55,21:45,21:46,Cloudy,Low,27
+T0268,2026-01-27,Tuesday,R3,BUS028,Bus Terminal,Market Road,06:40,06:41,07:15,07:33,Rainy,High,43
+T0269,2026-01-27,Tuesday,R4,BUS010,Residential Area,Hospital,06:20,06:20,06:50,07:13,Rainy,Medium,27
+T0270,2026-01-27,Tuesday,R4,BUS010,Residential Area,Hospital,08:40,08:44,09:10,09:25,Clear,High,37
+T0271,2026-01-28,Wednesday,R1,BUS022,City Centre,University,16:30,16:30,17:12,17:23,Rainy,Medium,49
+T0272,2026-01-28,Wednesday,R1,BUS004,City Centre,University,15:20,15:23,16:02,16:08,Clear,Medium,25
+T0273,2026-01-28,Wednesday,R4,BUS014,Residential Area,Hospital,18:40,18:43,19:10,19:22,Clear,High,38
+T0274,2026-01-28,Wednesday,R2,BUS008,Railway Station,Tech Park,12:20,12:19,13:10,13:19,Rainy,Low,55
+T0275,2026-01-28,Wednesday,R4,BUS025,Residential Area,Hospital,09:50,09:48,10:20,10:23,Clear,Low,37
+T0276,2026-01-28,Wednesday,R5,BUS030,Airport Road,City Centre,18:20,18:20,19:15,19:30,Clear,Medium,14
+T0277,2026-01-28,Wednesday,R6,BUS010,University,Shopping Mall,15:20,15:27,15:58,16:18,Rainy,Medium,9
+T0278,2026-01-28,Wednesday,R3,BUS013,Bus Terminal,Market Road,16:40,16:43,17:15,17:19,Clear,Medium,29
+T0279,2026-01-28,Wednesday,R2,BUS032,Railway Station,Tech Park,13:40,13:41,14:30,14:41,Cloudy,Medium,37
+T0280,2026-01-28,Wednesday,R2,BUS012,Railway Station,Tech Park,19:20,19:27,20:10,20:25,Clear,Medium,42
+T0281,2026-01-29,Thursday,R6,BUS015,University,Shopping Mall,06:40,06:42,07:18,07:25,Clear,High,12
+T0282,2026-01-29,Thursday,R6,BUS031,University,Shopping Mall,08:00,07:59,08:38,08:39,Clear,Medium,50
+T0283,2026-01-29,Thursday,R4,BUS019,Residential Area,Hospital,06:00,06:00,06:30,06:30,Clear,Medium,9
+T0284,2026-01-29,Thursday,R5,BUS007,Airport Road,City Centre,19:50,19:51,20:45,20:56,Clear,High,14
+T0285,2026-01-29,Thursday,R5,BUS024,Airport Road,City Centre,08:10,08:11,09:05,09:16,Clear,Medium,33
+T0286,2026-01-29,Thursday,R4,BUS003,Residential Area,Hospital,17:10,17:14,17:40,17:45,Rainy,Low,13
+T0287,2026-01-29,Thursday,R4,BUS028,Residential Area,Hospital,13:30,13:31,14:00,13:56,Clear,Low,49
+T0288,2026-01-29,Thursday,R3,BUS014,Bus Terminal,Market Road,17:00,17:00,17:35,17:55,Rainy,High,52
+T0289,2026-01-29,Thursday,R5,BUS003,Airport Road,City Centre,15:20,15:25,16:15,16:19,Clear,Low,19
+T0290,2026-01-29,Thursday,R3,BUS005,Bus Terminal,Market Road,06:10,06:10,06:45,07:03,Clear,High,27
+T0291,2026-01-30,Friday,R2,BUS006,Railway Station,Tech Park,17:10,17:09,18:00,18:16,Clear,High,40
+T0292,2026-01-30,Friday,R6,BUS022,University,Shopping Mall,12:00,12:05,12:38,12:36,Clear,Low,46
+T0293,2026-01-30,Friday,R5,BUS015,Airport Road,City Centre,17:30,17:32,18:25,18:40,Rainy,Medium,30
+T0294,2026-01-30,Friday,R5,BUS006,Airport Road,City Centre,13:30,13:29,14:25,14:37,Clear,Medium,47
+T0295,2026-01-30,Friday,R3,BUS010,Bus Terminal,Market Road,20:10,20:09,20:45,20:46,Cloudy,Low,55
+T0296,2026-01-30,Friday,R4,BUS029,Residential Area,Hospital,12:20,12:25,12:50,12:55,Clear,Low,31
+T0297,2026-01-30,Friday,R3,BUS023,Bus Terminal,Market Road,07:10,07:11,07:45,08:01,Clear,Medium,43
+T0298,2026-01-30,Friday,R1,BUS019,City Centre,University,17:40,17:42,18:22,18:29,Cloudy,High,34
+T0299,2026-01-30,Friday,R4,BUS025,Residential Area,Hospital,20:00,20:00,20:30,20:38,Cloudy,Medium,18
+T0300,2026-01-30,Friday,R2,BUS028,Railway Station,Tech Park,11:20,11:21,12:10,12:11,Clear,Low,25
+T0301,2026-01-31,Saturday,R4,BUS013,Residential Area,Hospital,11:30,11:31,12:00,12:08,Cloudy,Medium,37
+T0302,2026-01-31,Saturday,R1,BUS022,City Centre,University,08:20,08:19,09:02,09:14,Clear,Medium,36
+T0303,2026-01-31,Saturday,R3,BUS031,Bus Terminal,Market Road,13:50,13:49,14:25,14:38,Rainy,Low,28
+T0304,2026-01-31,Saturday,R2,BUS016,Railway Station,Tech Park,13:20,13:20,14:10,14:25,Clear,Medium,28
+T0305,2026-01-31,Saturday,R4,BUS002,Residential Area,Hospital,11:30,11:29,12:00,12:12,Clear,High,54
+T0306,2026-01-31,Saturday,R4,BUS027,Residential Area,Hospital,19:10,19:10,19:40,19:42,Clear,Medium,51
+T0307,2026-01-31,Saturday,R4,BUS005,Residential Area,Hospital,08:50,08:50,09:20,09:24,Clear,Medium,36
+T0308,2026-01-31,Saturday,R5,BUS035,Airport Road,City Centre,15:40,15:37,16:35,16:48,Clear,Medium,10
+T0309,2026-01-31,Saturday,R3,BUS023,Bus Terminal,Market Road,19:40,19:42,20:15,20:24,Clear,High,18
+T0310,2026-01-31,Saturday,R6,BUS022,University,Shopping Mall,17:00,16:58,17:38,17:50,Clear,Medium,35
+T0311,2026-02-01,Sunday,R1,BUS015,City Centre,University,06:00,05:58,06:42,06:58,Clear,Medium,36
+T0312,2026-02-01,Sunday,R3,BUS010,Bus Terminal,Market Road,13:30,13:30,14:05,14:22,Cloudy,Medium,30
+T0313,2026-02-01,Sunday,R1,BUS010,City Centre,University,15:00,15:07,15:42,15:50,Clear,High,30
+T0314,2026-02-01,Sunday,R3,BUS031,Bus Terminal,Market Road,12:30,12:36,13:05,13:17,Cloudy,Medium,14
+T0315,2026-02-01,Sunday,R4,BUS022,Residential Area,Hospital,19:50,19:52,20:20,20:17,Clear,Low,49
+T0316,2026-02-01,Sunday,R1,BUS012,City Centre,University,18:10,18:10,18:52,19:15,Rainy,Medium,43
+T0317,2026-02-01,Sunday,R2,BUS028,Railway Station,Tech Park,12:40,12:40,13:30,13:42,Clear,Medium,33
+T0318,2026-02-01,Sunday,R1,BUS025,City Centre,University,19:40,19:40,20:22,20:42,Rainy,Medium,8
+T0319,2026-02-01,Sunday,R6,BUS035,University,Shopping Mall,09:10,09:08,09:48,09:50,Clear,Medium,19
+T0320,2026-02-01,Sunday,R3,BUS034,Bus Terminal,Market Road,12:10,12:10,12:45,13:00,Clear,Medium,48
+T0321,2026-02-02,Monday,R3,BUS012,Bus Terminal,Market Road,17:30,17:30,18:05,18:16,Clear,Medium,51
+T0322,2026-02-02,Monday,R6,BUS021,University,Shopping Mall,20:20,20:24,20:58,21:09,Rainy,Medium,15
+T0323,2026-02-02,Monday,R2,BUS025,Railway Station,Tech Park,11:00,10:59,11:50,12:06,Clear,Medium,35
+T0324,2026-02-02,Monday,R2,BUS011,Railway Station,Tech Park,15:50,15:54,16:40,16:51,Clear,High,39
+T0325,2026-02-02,Monday,R3,BUS032,Bus Terminal,Market Road,08:10,08:16,08:45,08:46,Clear,Medium,16
+T0326,2026-02-02,Monday,R2,BUS027,Railway Station,Tech Park,13:40,13:37,14:30,14:45,Clear,Medium,53
+T0327,2026-02-02,Monday,R4,BUS035,Residential Area,Hospital,15:10,15:11,15:40,15:43,Clear,Low,26
+T0328,2026-02-02,Monday,R2,BUS033,Railway Station,Tech Park,20:30,20:34,21:20,21:41,Clear,High,15
+T0329,2026-02-02,Monday,R5,BUS029,Airport Road,City Centre,07:20,07:18,08:15,08:33,Cloudy,High,42
+T0330,2026-02-02,Monday,R2,BUS020,Railway Station,Tech Park,13:00,13:00,13:50,13:58,Cloudy,Medium,10
+T0331,2026-02-03,Tuesday,R4,BUS023,Residential Area,Hospital,11:20,11:22,11:50,11:50,Cloudy,Low,53
+T0332,2026-02-03,Tuesday,R5,BUS014,Airport Road,City Centre,18:30,18:30,19:25,19:27,Clear,Low,11
+T0333,2026-02-03,Tuesday,R5,BUS018,Airport Road,City Centre,12:40,12:44,13:35,13:45,Clear,Medium,40
+T0334,2026-02-03,Tuesday,R6,BUS018,University,Shopping Mall,07:10,07:11,07:48,08:02,Rainy,High,49
+T0335,2026-02-03,Tuesday,R2,BUS032,Railway Station,Tech Park,19:10,19:12,20:00,20:07,Clear,Medium,17
+T0336,2026-02-03,Tuesday,R5,BUS006,Airport Road,City Centre,18:20,18:18,19:15,19:17,Clear,Medium,33
+T0337,2026-02-03,Tuesday,R5,BUS001,Airport Road,City Centre,19:20,19:24,20:15,20:36,Cloudy,High,54
+T0338,2026-02-03,Tuesday,R1,BUS035,City Centre,University,19:30,19:31,20:12,20:14,Clear,Medium,33
+T0339,2026-02-03,Tuesday,R2,BUS032,Railway Station,Tech Park,13:10,13:10,14:00,14:09,Clear,Medium,29
+T0340,2026-02-03,Tuesday,R6,BUS002,University,Shopping Mall,20:00,20:05,20:38,20:52,Clear,Medium,15
+T0341,2026-02-04,Wednesday,R2,BUS020,Railway Station,Tech Park,15:30,15:38,16:20,16:32,Clear,High,18
+T0342,2026-02-04,Wednesday,R3,BUS004,Bus Terminal,Market Road,07:50,07:51,08:25,08:26,Clear,Low,33
+T0343,2026-02-04,Wednesday,R6,BUS031,University,Shopping Mall,11:50,11:51,12:28,12:27,Cloudy,Low,12
+T0344,2026-02-04,Wednesday,R2,BUS022,Railway Station,Tech Park,17:10,17:11,18:00,18:00,Clear,Medium,15
+T0345,2026-02-04,Wednesday,R4,BUS021,Residential Area,Hospital,19:10,19:11,19:40,19:38,Clear,Low,31
+T0346,2026-02-04,Wednesday,R3,BUS010,Bus Terminal,Market Road,08:30,08:30,09:05,09:16,Cloudy,High,12
+T0347,2026-02-04,Wednesday,R5,BUS010,Airport Road,City Centre,17:00,17:01,17:55,18:02,Clear,Low,34
+T0348,2026-02-04,Wednesday,R5,BUS009,Airport Road,City Centre,18:30,18:28,19:25,19:25,Cloudy,Low,15
+T0349,2026-02-04,Wednesday,R5,BUS016,Airport Road,City Centre,19:30,19:32,20:25,20:29,Clear,Medium,43
+T0350,2026-02-04,Wednesday,R5,BUS020,Airport Road,City Centre,17:50,17:56,18:45,18:51,Clear,High,21
+T0351,2026-02-05,Thursday,R5,BUS016,Airport Road,City Centre,17:40,17:43,18:35,18:36,Clear,Medium,39
+T0352,2026-02-05,Thursday,R4,BUS001,Residential Area,Hospital,07:10,07:07,07:40,07:56,Clear,Medium,31
+T0353,2026-02-05,Thursday,R3,BUS031,Bus Terminal,Market Road,08:30,08:30,09:05,09:17,Cloudy,Medium,12
+T0354,2026-02-05,Thursday,R1,BUS026,City Centre,University,17:00,17:01,17:42,17:39,Clear,Low,40
+T0355,2026-02-05,Thursday,R3,BUS010,Bus Terminal,Market Road,18:50,18:55,19:25,19:37,Clear,Medium,25
+T0356,2026-02-05,Thursday,R1,BUS035,City Centre,University,11:00,11:03,11:42,11:42,Clear,Low,28
+T0357,2026-02-05,Thursday,R4,BUS016,Residential Area,Hospital,17:50,17:50,18:20,18:23,Cloudy,Medium,11
+T0358,2026-02-05,Thursday,R2,BUS020,Railway Station,Tech Park,07:30,07:34,08:20,08:21,Clear,Medium,50
+T0359,2026-02-05,Thursday,R6,BUS023,University,Shopping Mall,18:50,18:51,19:28,19:28,Clear,Low,41
+T0360,2026-02-05,Thursday,R5,BUS008,Airport Road,City Centre,20:50,20:50,21:45,21:53,Clear,Medium,9
+T0361,2026-02-06,Friday,R3,BUS004,Bus Terminal,Market Road,20:30,20:29,21:05,21:03,Clear,Low,39
+T0362,2026-02-06,Friday,R5,BUS015,Airport Road,City Centre,08:20,08:22,09:15,09:24,Clear,High,55
+T0363,2026-02-06,Friday,R5,BUS010,Airport Road,City Centre,06:00,06:00,06:55,06:53,Cloudy,Low,19
+T0364,2026-02-06,Friday,R1,BUS016,City Centre,University,16:50,16:52,17:32,17:43,Cloudy,Medium,34
+T0365,2026-02-06,Friday,R6,BUS012,University,Shopping Mall,12:20,12:17,12:58,13:02,Cloudy,Medium,22
+T0366,2026-02-06,Friday,R5,BUS020,Airport Road,City Centre,06:30,06:31,07:25,07:34,Clear,Medium,28
+T0367,2026-02-06,Friday,R1,BUS024,City Centre,University,16:30,16:31,17:12,17:17,Clear,Low,45
+T0368,2026-02-06,Friday,R4,BUS010,Residential Area,Hospital,20:10,20:10,20:40,20:48,Cloudy,Medium,8
+T0369,2026-02-06,Friday,R4,BUS025,Residential Area,Hospital,06:10,06:12,06:40,06:40,Clear,Medium,55
+T0370,2026-02-06,Friday,R6,BUS032,University,Shopping Mall,11:00,11:01,11:38,11:57,Clear,High,11
+T0371,2026-02-07,Saturday,R2,BUS030,Railway Station,Tech Park,19:20,19:17,20:10,20:32,Clear,High,55
+T0372,2026-02-07,Saturday,R1,BUS005,City Centre,University,17:00,17:05,17:42,17:54,Clear,Medium,45
+T0373,2026-02-07,Saturday,R5,BUS026,Airport Road,City Centre,06:30,06:31,07:25,07:31,Cloudy,Low,52
+T0374,2026-02-07,Saturday,R6,BUS009,University,Shopping Mall,12:20,12:24,12:58,13:00,Clear,Low,45
+T0375,2026-02-07,Saturday,R1,BUS014,City Centre,University,08:00,08:04,08:42,08:55,Clear,Medium,36
+T0376,2026-02-07,Saturday,R3,BUS003,Bus Terminal,Market Road,15:20,15:23,15:55,16:01,Cloudy,Low,21
+T0377,2026-02-07,Saturday,R3,BUS017,Bus Terminal,Market Road,08:00,07:58,08:35,08:54,Cloudy,High,19
+T0378,2026-02-07,Saturday,R1,BUS030,City Centre,University,13:30,13:31,14:12,14:15,Clear,Medium,14
+T0379,2026-02-07,Saturday,R2,BUS024,Railway Station,Tech Park,07:00,07:05,07:50,08:03,Clear,High,51
+T0380,2026-02-07,Saturday,R6,BUS002,University,Shopping Mall,18:00,18:06,18:38,18:40,Clear,Medium,12
+T0381,2026-02-08,Sunday,R2,BUS004,Railway Station,Tech Park,18:30,18:37,19:20,19:27,Cloudy,Low,18
+T0382,2026-02-08,Sunday,R5,BUS012,Airport Road,City Centre,13:50,13:56,14:45,14:54,Clear,Low,30
+T0383,2026-02-08,Sunday,R2,BUS019,Railway Station,Tech Park,08:20,08:19,09:10,09:17,Clear,High,39
+T0384,2026-02-08,Sunday,R4,BUS027,Residential Area,Hospital,16:30,16:30,17:00,17:04,Clear,Medium,20
+T0385,2026-02-08,Sunday,R6,BUS023,University,Shopping Mall,20:40,20:47,21:18,21:24,Clear,High,38
+T0386,2026-02-08,Sunday,R5,BUS025,Airport Road,City Centre,20:30,20:31,21:25,21:35,Clear,Medium,25
+T0387,2026-02-08,Sunday,R2,BUS034,Railway Station,Tech Park,06:20,06:30,07:10,07:14,Clear,Low,30
+T0388,2026-02-08,Sunday,R5,BUS035,Airport Road,City Centre,09:10,09:15,10:05,10:13,Clear,Medium,55
+T0389,2026-02-08,Sunday,R1,BUS012,City Centre,University,20:10,20:09,20:52,21:10,Clear,High,19
+T0390,2026-02-08,Sunday,R2,BUS023,Railway Station,Tech Park,17:20,17:26,18:10,18:11,Cloudy,Medium,44
+T0391,2026-02-09,Monday,R5,BUS003,Airport Road,City Centre,08:40,08:40,09:35,10:03,Rainy,High,13
+T0392,2026-02-09,Monday,R1,BUS022,City Centre,University,09:40,09:41,10:22,10:22,Clear,Medium,47
+T0393,2026-02-09,Monday,R2,BUS010,Railway Station,Tech Park,20:10,20:13,21:00,21:06,Clear,Low,15
+T0394,2026-02-09,Monday,R5,BUS007,Airport Road,City Centre,12:00,12:02,12:55,13:13,Clear,High,29
+T0395,2026-02-09,Monday,R3,BUS021,Bus Terminal,Market Road,12:10,12:13,12:45,13:05,Rainy,Medium,19
+T0396,2026-02-09,Monday,R6,BUS015,University,Shopping Mall,16:50,16:47,17:28,17:46,Rainy,Medium,50
+T0397,2026-02-09,Monday,R5,BUS026,Airport Road,City Centre,08:30,08:32,09:25,09:29,Clear,Medium,44
+T0398,2026-02-09,Monday,R1,BUS007,City Centre,University,08:40,08:42,09:22,09:35,Clear,High,39
+T0399,2026-02-09,Monday,R2,BUS006,Railway Station,Tech Park,12:50,12:55,13:40,13:50,Clear,Medium,53
+T0400,2026-02-09,Monday,R6,BUS014,University,Shopping Mall,18:50,18:57,19:28,19:43,Rainy,Medium,23
+T0401,2026-02-10,Tuesday,R6,BUS027,University,Shopping Mall,07:20,07:25,07:58,07:54,Clear,Low,18
+T0402,2026-02-10,Tuesday,R4,BUS015,Residential Area,Hospital,15:30,15:32,16:00,16:15,Clear,Medium,18
+T0403,2026-02-10,Tuesday,R4,BUS025,Residential Area,Hospital,07:00,07:03,07:30,07:33,Clear,Medium,18
+T0404,2026-02-10,Tuesday,R6,BUS031,University,Shopping Mall,07:40,07:42,08:18,08:41,Rainy,High,53
+T0405,2026-02-10,Tuesday,R1,BUS013,City Centre,University,13:50,13:54,14:32,14:43,Clear,High,34
+T0406,2026-02-10,Tuesday,R6,BUS020,University,Shopping Mall,16:50,16:52,17:28,17:44,Rainy,Medium,23
+T0407,2026-02-10,Tuesday,R1,BUS006,City Centre,University,06:30,06:32,07:12,07:22,Clear,High,26
+T0408,2026-02-10,Tuesday,R6,BUS011,University,Shopping Mall,18:40,18:42,19:18,19:20,Clear,Low,48
+T0409,2026-02-10,Tuesday,R3,BUS017,Bus Terminal,Market Road,07:30,07:27,08:05,08:18,Cloudy,Medium,13
+T0410,2026-02-10,Tuesday,R6,BUS012,University,Shopping Mall,16:30,16:33,17:08,17:25,Clear,High,36
+T0411,2026-02-11,Wednesday,R1,BUS007,City Centre,University,11:30,11:30,12:12,12:16,Clear,Low,13
+T0412,2026-02-11,Wednesday,R6,BUS004,University,Shopping Mall,12:40,12:41,13:18,13:31,Clear,High,32
+T0413,2026-02-11,Wednesday,R5,BUS003,Airport Road,City Centre,13:40,13:40,14:35,14:49,Cloudy,High,40
+T0414,2026-02-11,Wednesday,R5,BUS029,Airport Road,City Centre,16:40,16:42,17:35,17:39,Cloudy,Medium,19
+T0415,2026-02-11,Wednesday,R2,BUS010,Railway Station,Tech Park,09:10,09:13,10:00,10:13,Clear,Medium,46
+T0416,2026-02-11,Wednesday,R3,BUS026,Bus Terminal,Market Road,12:50,12:57,13:25,13:40,Rainy,Low,43
+T0417,2026-02-11,Wednesday,R3,BUS010,Bus Terminal,Market Road,11:40,11:42,12:15,12:37,Clear,High,17
+T0418,2026-02-11,Wednesday,R5,BUS007,Airport Road,City Centre,17:40,17:40,18:35,18:45,Cloudy,High,26
+T0419,2026-02-11,Wednesday,R5,BUS010,Airport Road,City Centre,12:30,12:34,13:25,13:40,Clear,Medium,47
+T0420,2026-02-11,Wednesday,R5,BUS016,Airport Road,City Centre,18:50,18:52,19:45,19:55,Clear,Medium,11
+T0421,2026-02-12,Thursday,R6,BUS007,University,Shopping Mall,15:20,15:20,15:58,16:10,Rainy,Low,22
+T0422,2026-02-12,Thursday,R2,BUS027,Railway Station,Tech Park,11:50,11:57,12:40,12:54,Clear,High,46
+T0423,2026-02-12,Thursday,R6,BUS024,University,Shopping Mall,07:10,07:11,07:48,08:07,Clear,High,11
+T0424,2026-02-12,Thursday,R5,BUS009,Airport Road,City Centre,20:10,20:07,21:05,21:17,Clear,Medium,41
+T0425,2026-02-12,Thursday,R5,BUS024,Airport Road,City Centre,06:10,06:12,07:05,07:12,Clear,High,53
+T0426,2026-02-12,Thursday,R2,BUS002,Railway Station,Tech Park,11:20,11:25,12:10,12:14,Cloudy,Medium,23
+T0427,2026-02-12,Thursday,R3,BUS011,Bus Terminal,Market Road,15:40,15:40,16:15,16:36,Clear,High,24
+T0428,2026-02-12,Thursday,R6,BUS014,University,Shopping Mall,19:00,19:00,19:38,19:43,Clear,Medium,22
+T0429,2026-02-12,Thursday,R6,BUS001,University,Shopping Mall,09:50,09:57,10:28,10:44,Clear,Medium,38
+T0430,2026-02-12,Thursday,R2,BUS020,Railway Station,Tech Park,18:10,18:12,19:00,19:04,Clear,Low,53
+T0431,2026-02-13,Friday,R6,BUS020,University,Shopping Mall,18:20,18:20,18:58,19:09,Clear,Medium,51
+T0432,2026-02-13,Friday,R5,BUS019,Airport Road,City Centre,17:30,17:32,18:25,18:32,Clear,Low,27
+T0433,2026-02-13,Friday,R6,BUS020,University,Shopping Mall,07:30,07:33,08:08,08:24,Clear,High,20
+T0434,2026-02-13,Friday,R2,BUS021,Railway Station,Tech Park,16:10,16:10,17:00,17:25,Rainy,High,51
+T0435,2026-02-13,Friday,R2,BUS003,Railway Station,Tech Park,19:00,19:04,19:50,20:05,Cloudy,High,45
+T0436,2026-02-13,Friday,R6,BUS023,University,Shopping Mall,17:10,17:10,17:48,18:03,Clear,Medium,40
+T0437,2026-02-13,Friday,R3,BUS012,Bus Terminal,Market Road,08:50,08:48,09:25,09:25,Cloudy,Low,51
+T0438,2026-02-13,Friday,R3,BUS027,Bus Terminal,Market Road,18:00,18:02,18:35,18:40,Clear,Low,29
+T0439,2026-02-13,Friday,R3,BUS005,Bus Terminal,Market Road,11:40,11:46,12:15,12:36,Clear,High,38
+T0440,2026-02-13,Friday,R2,BUS027,Railway Station,Tech Park,16:00,16:03,16:50,17:00,Cloudy,Medium,11
+T0441,2026-02-14,Saturday,R2,BUS012,Railway Station,Tech Park,08:10,08:15,09:00,09:20,Clear,High,13
+T0442,2026-02-14,Saturday,R4,BUS001,Residential Area,Hospital,12:50,12:56,13:20,13:28,Rainy,Medium,36
+T0443,2026-02-14,Saturday,R3,BUS028,Bus Terminal,Market Road,09:10,09:14,09:45,09:43,Clear,Low,33
+T0444,2026-02-14,Saturday,R4,BUS001,Residential Area,Hospital,15:30,15:34,16:00,16:11,Clear,Medium,28
+T0445,2026-02-14,Saturday,R5,BUS020,Airport Road,City Centre,09:00,09:02,09:55,10:03,Cloudy,Medium,16
+T0446,2026-02-14,Saturday,R1,BUS020,City Centre,University,13:40,13:48,14:22,14:19,Clear,Low,26
+T0447,2026-02-14,Saturday,R4,BUS023,Residential Area,Hospital,19:40,19:39,20:10,20:14,Clear,Medium,20
+T0448,2026-02-14,Saturday,R2,BUS014,Railway Station,Tech Park,20:30,20:37,21:20,21:20,Clear,Low,54
+T0449,2026-02-14,Saturday,R1,BUS035,City Centre,University,17:40,17:39,18:22,18:23,Clear,Medium,47
+T0450,2026-02-14,Saturday,R1,BUS004,City Centre,University,17:00,17:05,17:42,17:43,Cloudy,Medium,52
+T0451,2026-02-15,Sunday,R1,BUS001,City Centre,University,13:30,13:31,14:12,14:27,Clear,Medium,27
+T0452,2026-02-15,Sunday,R4,BUS027,Residential Area,Hospital,18:00,18:00,18:30,18:35,Cloudy,Medium,14
+T0453,2026-02-15,Sunday,R5,BUS017,Airport Road,City Centre,19:40,19:38,20:35,20:34,Clear,Low,41
+T0454,2026-02-15,Sunday,R2,BUS014,Railway Station,Tech Park,12:50,12:52,13:40,13:51,Clear,Low,52
+T0455,2026-02-15,Sunday,R4,BUS010,Residential Area,Hospital,12:10,12:14,12:40,12:43,Clear,Medium,13
+T0456,2026-02-15,Sunday,R5,BUS030,Airport Road,City Centre,07:50,07:49,08:45,08:59,Cloudy,High,26
+T0457,2026-02-15,Sunday,R3,BUS021,Bus Terminal,Market Road,15:00,15:03,15:35,15:32,Clear,Low,35
+T0458,2026-02-15,Sunday,R6,BUS009,University,Shopping Mall,07:00,07:00,07:38,07:45,Cloudy,High,50
+T0459,2026-02-15,Sunday,R6,BUS022,University,Shopping Mall,08:20,08:22,08:58,09:06,Clear,Medium,19
+T0460,2026-02-15,Sunday,R1,BUS031,City Centre,University,13:30,13:31,14:12,14:31,Rainy,Medium,34
+T0461,2026-02-16,Monday,R6,BUS007,University,Shopping Mall,20:10,20:17,20:48,20:49,Clear,Medium,34
+T0462,2026-02-16,Monday,R5,BUS023,Airport Road,City Centre,15:40,15:41,16:35,16:44,Cloudy,Low,47
+T0463,2026-02-16,Monday,R1,BUS003,City Centre,University,18:50,18:54,19:32,19:50,Rainy,Low,12
+T0464,2026-02-16,Monday,R3,BUS015,Bus Terminal,Market Road,18:20,18:24,18:55,19:17,Clear,High,50
+T0465,2026-02-16,Monday,R3,BUS023,Bus Terminal,Market Road,16:40,16:40,17:15,17:29,Cloudy,Medium,50
+T0466,2026-02-16,Monday,R6,BUS001,University,Shopping Mall,18:30,18:30,19:08,19:15,Clear,High,49
+T0467,2026-02-16,Monday,R2,BUS022,Railway Station,Tech Park,16:30,16:32,17:20,17:29,Cloudy,High,25
+T0468,2026-02-16,Monday,R1,BUS006,City Centre,University,16:10,16:10,16:52,16:59,Clear,Medium,37
+T0469,2026-02-16,Monday,R4,BUS002,Residential Area,Hospital,20:40,20:39,21:10,21:30,Clear,High,14
+T0470,2026-02-16,Monday,R4,BUS020,Residential Area,Hospital,13:00,13:09,13:30,13:28,Clear,Low,40
+T0471,2026-02-17,Tuesday,R5,BUS030,Airport Road,City Centre,09:50,09:54,10:45,11:03,Cloudy,High,29
+T0472,2026-02-17,Tuesday,R5,BUS029,Airport Road,City Centre,20:40,20:38,21:35,21:46,Clear,Medium,15
+T0473,2026-02-17,Tuesday,R1,BUS007,City Centre,University,20:50,20:50,21:32,21:41,Clear,Medium,10
+T0474,2026-02-17,Tuesday,R2,BUS007,Railway Station,Tech Park,15:10,15:11,16:00,16:14,Cloudy,Medium,24
+T0475,2026-02-17,Tuesday,R5,BUS022,Airport Road,City Centre,09:10,09:07,10:05,10:17,Clear,High,14
+T0476,2026-02-17,Tuesday,R4,BUS030,Residential Area,Hospital,06:50,06:53,07:20,07:35,Cloudy,Medium,50
+T0477,2026-02-17,Tuesday,R5,BUS031,Airport Road,City Centre,16:10,16:09,17:05,17:09,Rainy,Low,40
+T0478,2026-02-17,Tuesday,R2,BUS025,Railway Station,Tech Park,19:40,19:40,20:30,20:39,Clear,High,50
+T0479,2026-02-17,Tuesday,R5,BUS019,Airport Road,City Centre,17:20,17:20,18:15,18:22,Clear,Medium,36
+T0480,2026-02-17,Tuesday,R2,BUS020,Railway Station,Tech Park,08:30,08:39,09:20,09:42,Clear,High,52
+T0481,2026-02-18,Wednesday,R5,BUS019,Airport Road,City Centre,12:50,12:53,13:45,13:52,Cloudy,Medium,51
+T0482,2026-02-18,Wednesday,R3,BUS033,Bus Terminal,Market Road,18:10,18:15,18:45,18:57,Rainy,Medium,42
+T0483,2026-02-18,Wednesday,R6,BUS027,University,Shopping Mall,18:20,18:17,18:58,19:20,Cloudy,High,51
+T0484,2026-02-18,Wednesday,R6,BUS034,University,Shopping Mall,16:20,16:19,16:58,16:59,Cloudy,Medium,14
+T0485,2026-02-18,Wednesday,R1,BUS019,City Centre,University,13:10,13:12,13:52,13:56,Clear,Low,51
+T0486,2026-02-18,Wednesday,R3,BUS023,Bus Terminal,Market Road,08:00,08:00,08:35,08:37,Cloudy,Medium,36
+T0487,2026-02-18,Wednesday,R1,BUS019,City Centre,University,17:50,17:52,18:32,18:51,Cloudy,High,52
+T0488,2026-02-18,Wednesday,R6,BUS004,University,Shopping Mall,06:30,06:37,07:08,07:24,Clear,High,8
+T0489,2026-02-18,Wednesday,R6,BUS024,University,Shopping Mall,11:10,11:15,11:48,12:08,Clear,High,45
+T0490,2026-02-18,Wednesday,R5,BUS019,Airport Road,City Centre,19:40,19:37,20:35,20:41,Clear,Medium,36
+T0491,2026-02-19,Thursday,R2,BUS018,Railway Station,Tech Park,18:00,18:02,18:50,19:02,Clear,Low,43
+T0492,2026-02-19,Thursday,R3,BUS030,Bus Terminal,Market Road,08:10,08:12,08:45,08:55,Clear,Medium,53
+T0493,2026-02-19,Thursday,R2,BUS023,Railway Station,Tech Park,06:10,06:09,07:00,07:16,Rainy,Medium,12
+T0494,2026-02-19,Thursday,R6,BUS033,University,Shopping Mall,12:40,12:42,13:18,13:16,Clear,Low,18
+T0495,2026-02-19,Thursday,R4,BUS019,Residential Area,Hospital,16:40,16:40,17:10,17:16,Clear,Medium,21
+T0496,2026-02-19,Thursday,R5,BUS008,Airport Road,City Centre,16:30,16:30,17:25,17:38,Rainy,High,50
+T0497,2026-02-19,Thursday,R3,BUS021,Bus Terminal,Market Road,15:10,15:16,15:45,15:59,Rainy,Medium,32
+T0498,2026-02-19,Thursday,R1,BUS024,City Centre,University,13:20,13:20,14:02,14:18,Clear,Medium,40
+T0499,2026-02-19,Thursday,R5,BUS007,Airport Road,City Centre,15:30,15:31,16:25,16:37,Clear,High,18
+T0500,2026-02-19,Thursday,R5,BUS028,Airport Road,City Centre,16:00,16:03,16:55,16:57,Clear,Low,14
+T0501,2026-02-20,Friday,R2,BUS010,Railway Station,Tech Park,16:50,16:48,17:40,17:54,Cloudy,Medium,9
+T0502,2026-02-20,Friday,R4,BUS017,Residential Area,Hospital,19:20,19:17,19:50,19:51,Clear,Low,43
+T0503,2026-02-20,Friday,R1,BUS002,City Centre,University,17:10,17:10,17:52,18:13,Rainy,Medium,32
+T0504,2026-02-20,Friday,R6,BUS003,University,Shopping Mall,07:40,07:40,08:18,08:20,Clear,Medium,52
+T0505,2026-02-20,Friday,R1,BUS029,City Centre,University,12:40,12:40,13:22,13:37,Clear,High,32
+T0506,2026-02-20,Friday,R4,BUS026,Residential Area,Hospital,18:00,18:00,18:30,18:34,Clear,Medium,42
+T0507,2026-02-20,Friday,R3,BUS010,Bus Terminal,Market Road,18:10,18:12,18:45,19:02,Clear,High,15
+T0508,2026-02-20,Friday,R1,BUS020,City Centre,University,06:40,06:41,07:22,07:24,Clear,Medium,21
+T0509,2026-02-20,Friday,R6,BUS017,University,Shopping Mall,19:50,19:53,20:28,20:44,Clear,Medium,20
+T0510,2026-02-20,Friday,R1,BUS005,City Centre,University,08:50,08:53,09:32,09:53,Cloudy,High,26
+T0511,2026-02-21,Saturday,R6,BUS016,University,Shopping Mall,07:20,07:24,07:58,08:13,Clear,Medium,14
+T0512,2026-02-21,Saturday,R3,BUS022,Bus Terminal,Market Road,17:00,17:01,17:35,17:56,Rainy,Medium,47
+T0513,2026-02-21,Saturday,R6,BUS011,University,Shopping Mall,11:50,11:54,12:28,12:39,Clear,Medium,8
+T0514,2026-02-21,Saturday,R3,BUS024,Bus Terminal,Market Road,09:10,09:07,09:45,09:54,Cloudy,Medium,16
+T0515,2026-02-21,Saturday,R6,BUS007,University,Shopping Mall,19:20,19:22,19:58,20:10,Cloudy,Medium,19
+T0516,2026-02-21,Saturday,R6,BUS035,University,Shopping Mall,17:00,16:59,17:38,17:49,Cloudy,High,20
+T0517,2026-02-21,Saturday,R3,BUS026,Bus Terminal,Market Road,19:50,19:54,20:25,20:21,Clear,Low,45
+T0518,2026-02-21,Saturday,R2,BUS010,Railway Station,Tech Park,06:40,06:39,07:30,07:51,Clear,High,31
+T0519,2026-02-21,Saturday,R4,BUS024,Residential Area,Hospital,09:40,09:40,10:10,10:25,Cloudy,Medium,40
+T0520,2026-02-21,Saturday,R1,BUS033,City Centre,University,18:10,18:11,18:52,19:04,Cloudy,High,16
+T0521,2026-02-22,Sunday,R4,BUS023,Residential Area,Hospital,08:10,08:11,08:40,08:44,Clear,Medium,10
+T0522,2026-02-22,Sunday,R2,BUS003,Railway Station,Tech Park,20:30,20:29,21:20,21:27,Clear,Medium,50
+T0523,2026-02-22,Sunday,R2,BUS007,Railway Station,Tech Park,16:20,16:26,17:10,17:17,Clear,High,53
+T0524,2026-02-22,Sunday,R5,BUS025,Airport Road,City Centre,18:20,18:23,19:15,19:21,Cloudy,Medium,49
+T0525,2026-02-22,Sunday,R4,BUS015,Residential Area,Hospital,12:40,12:41,13:10,13:33,Cloudy,High,41
+T0526,2026-02-22,Sunday,R4,BUS033,Residential Area,Hospital,12:20,12:30,12:50,12:50,Clear,Medium,16
+T0527,2026-02-22,Sunday,R4,BUS008,Residential Area,Hospital,08:10,08:13,08:40,08:46,Clear,Medium,50
+T0528,2026-02-22,Sunday,R2,BUS031,Railway Station,Tech Park,13:20,13:23,14:10,14:26,Cloudy,Medium,21
+T0529,2026-02-22,Sunday,R5,BUS009,Airport Road,City Centre,08:50,08:54,09:45,09:43,Cloudy,Low,48
+T0530,2026-02-22,Sunday,R5,BUS034,Airport Road,City Centre,06:40,06:44,07:35,07:36,Clear,Low,33
+T0531,2026-02-23,Monday,R5,BUS031,Airport Road,City Centre,17:50,17:53,18:45,18:54,Clear,Medium,38
+T0532,2026-02-23,Monday,R2,BUS033,Railway Station,Tech Park,09:30,09:31,10:20,10:31,Clear,High,24
+T0533,2026-02-23,Monday,R2,BUS007,Railway Station,Tech Park,19:50,19:52,20:40,20:42,Clear,Medium,9
+T0534,2026-02-23,Monday,R2,BUS012,Railway Station,Tech Park,16:40,16:44,17:30,17:40,Cloudy,High,38
+T0535,2026-02-23,Monday,R5,BUS035,Airport Road,City Centre,17:00,17:05,17:55,17:59,Cloudy,Medium,8
+T0536,2026-02-23,Monday,R6,BUS034,University,Shopping Mall,18:30,18:34,19:08,19:09,Clear,Medium,35
+T0537,2026-02-23,Monday,R2,BUS015,Railway Station,Tech Park,20:30,20:30,21:20,21:24,Cloudy,Medium,13
+T0538,2026-02-23,Monday,R3,BUS034,Bus Terminal,Market Road,17:40,17:43,18:15,18:11,Clear,Low,15
+T0539,2026-02-23,Monday,R5,BUS028,Airport Road,City Centre,06:30,06:30,07:25,07:36,Cloudy,Medium,49
+T0540,2026-02-23,Monday,R5,BUS018,Airport Road,City Centre,11:20,11:22,12:15,12:27,Cloudy,Medium,51
+T0541,2026-02-24,Tuesday,R4,BUS031,Residential Area,Hospital,20:10,20:13,20:40,21:01,Clear,High,24
+T0542,2026-02-24,Tuesday,R3,BUS008,Bus Terminal,Market Road,17:20,17:25,17:55,18:00,Cloudy,Medium,55
+T0543,2026-02-24,Tuesday,R2,BUS004,Railway Station,Tech Park,15:50,15:50,16:40,16:59,Rainy,Low,18
+T0544,2026-02-24,Tuesday,R4,BUS028,Residential Area,Hospital,18:00,18:03,18:30,18:52,Cloudy,High,13
+T0545,2026-02-24,Tuesday,R1,BUS034,City Centre,University,11:10,11:14,11:52,12:04,Clear,Medium,26
+T0546,2026-02-24,Tuesday,R6,BUS029,University,Shopping Mall,17:00,17:00,17:38,18:06,Rainy,High,8
+T0547,2026-02-24,Tuesday,R2,BUS011,Railway Station,Tech Park,18:40,18:40,19:30,19:42,Clear,Low,51
+T0548,2026-02-24,Tuesday,R1,BUS018,City Centre,University,12:10,12:11,12:52,13:01,Cloudy,High,33
+T0549,2026-02-24,Tuesday,R3,BUS006,Bus Terminal,Market Road,18:30,18:31,19:05,19:01,Clear,Low,43
+T0550,2026-02-24,Tuesday,R3,BUS015,Bus Terminal,Market Road,19:40,19:40,20:15,20:30,Rainy,Medium,46
+T0551,2026-02-25,Wednesday,R2,BUS033,Railway Station,Tech Park,15:30,15:29,16:20,16:33,Clear,Medium,26
+T0552,2026-02-25,Wednesday,R3,BUS029,Bus Terminal,Market Road,07:40,07:41,08:15,08:36,Rainy,High,32
+T0553,2026-02-25,Wednesday,R5,BUS002,Airport Road,City Centre,15:10,15:10,16:05,16:26,Cloudy,High,38
+T0554,2026-02-25,Wednesday,R1,BUS015,City Centre,University,11:00,10:57,11:42,11:55,Clear,High,28
+T0555,2026-02-25,Wednesday,R4,BUS022,Residential Area,Hospital,12:40,12:42,13:10,13:18,Clear,Medium,12
+T0556,2026-02-25,Wednesday,R5,BUS012,Airport Road,City Centre,08:30,08:33,09:25,09:29,Clear,Low,55
+T0557,2026-02-25,Wednesday,R6,BUS013,University,Shopping Mall,09:30,09:33,10:08,10:12,Cloudy,Low,23
+T0558,2026-02-25,Wednesday,R5,BUS032,Airport Road,City Centre,12:10,12:10,13:05,13:04,Cloudy,Low,47
+T0559,2026-02-25,Wednesday,R1,BUS018,City Centre,University,20:40,20:40,21:22,21:46,Rainy,High,39
+T0560,2026-02-25,Wednesday,R2,BUS004,Railway Station,Tech Park,20:40,20:40,21:30,21:30,Clear,Low,41
+T0561,2026-02-26,Thursday,R4,BUS034,Residential Area,Hospital,15:40,15:40,16:10,16:15,Clear,Medium,37
+T0562,2026-02-26,Thursday,R3,BUS021,Bus Terminal,Market Road,19:00,19:02,19:35,19:34,Clear,Low,31
+T0563,2026-02-26,Thursday,R5,BUS012,Airport Road,City Centre,11:10,11:14,12:05,12:16,Clear,Low,39
+T0564,2026-02-26,Thursday,R4,BUS018,Residential Area,Hospital,09:30,09:31,10:00,10:13,Cloudy,Medium,36
+T0565,2026-02-26,Thursday,R2,BUS028,Railway Station,Tech Park,17:10,17:11,18:00,18:10,Rainy,Medium,32
+T0566,2026-02-26,Thursday,R2,BUS027,Railway Station,Tech Park,08:50,08:47,09:40,09:51,Clear,High,39
+T0567,2026-02-26,Thursday,R2,BUS004,Railway Station,Tech Park,18:40,18:40,19:30,19:45,Clear,Medium,33
+T0568,2026-02-26,Thursday,R1,BUS007,City Centre,University,19:10,19:15,19:52,20:13,Clear,High,36
+T0569,2026-02-26,Thursday,R6,BUS023,University,Shopping Mall,12:20,12:20,12:58,13:06,Clear,Medium,51
+T0570,2026-02-26,Thursday,R5,BUS019,Airport Road,City Centre,09:40,09:44,10:35,10:40,Clear,Medium,30
+T0571,2026-02-27,Friday,R3,BUS010,Bus Terminal,Market Road,18:40,18:40,19:15,19:17,Clear,Medium,18
+T0572,2026-02-27,Friday,R6,BUS005,University,Shopping Mall,20:20,20:23,20:58,21:10,Clear,Medium,13
+T0573,2026-02-27,Friday,R2,BUS029,Railway Station,Tech Park,12:10,12:10,13:00,13:08,Clear,Medium,31
+T0574,2026-02-27,Friday,R6,BUS002,University,Shopping Mall,17:40,17:40,18:18,18:30,Rainy,Medium,16
+T0575,2026-02-27,Friday,R6,BUS007,University,Shopping Mall,09:50,09:52,10:28,10:30,Clear,Medium,12
+T0576,2026-02-27,Friday,R4,BUS007,Residential Area,Hospital,16:00,16:04,16:30,16:32,Clear,Medium,24
+T0577,2026-02-27,Friday,R5,BUS029,Airport Road,City Centre,08:00,08:02,08:55,09:11,Cloudy,High,48
+T0578,2026-02-27,Friday,R2,BUS021,Railway Station,Tech Park,08:40,08:46,09:30,09:38,Cloudy,Low,38
+T0579,2026-02-27,Friday,R4,BUS028,Residential Area,Hospital,16:20,16:20,16:50,16:51,Clear,Low,41
+T0580,2026-02-27,Friday,R6,BUS006,University,Shopping Mall,18:40,18:40,19:18,19:25,Clear,Medium,36
+T0581,2026-02-28,Saturday,R3,BUS009,Bus Terminal,Market Road,12:30,12:27,13:05,13:05,Clear,Medium,30
+T0582,2026-02-28,Saturday,R3,BUS020,Bus Terminal,Market Road,15:40,15:41,16:15,16:36,Clear,High,8
+T0583,2026-02-28,Saturday,R4,BUS028,Residential Area,Hospital,20:20,20:24,20:50,21:07,Clear,High,33
+T0584,2026-02-28,Saturday,R2,BUS015,Railway Station,Tech Park,08:50,08:57,09:40,09:53,Cloudy,Medium,24
+T0585,2026-02-28,Saturday,R1,BUS018,City Centre,University,13:50,13:50,14:32,14:46,Clear,High,34
+T0586,2026-02-28,Saturday,R2,BUS029,Railway Station,Tech Park,07:10,07:16,08:00,08:10,Clear,Low,25
+T0587,2026-02-28,Saturday,R6,BUS007,University,Shopping Mall,17:30,17:32,18:08,18:05,Clear,Low,26
+T0588,2026-02-28,Saturday,R3,BUS010,Bus Terminal,Market Road,08:50,08:51,09:25,09:23,Clear,Low,8
+T0589,2026-02-28,Saturday,R4,BUS003,Residential Area,Hospital,09:20,09:25,09:50,10:11,Clear,High,29
+T0590,2026-02-28,Saturday,R1,BUS035,City Centre,University,20:10,20:11,20:52,21:00,Clear,High,38
+T0591,2026-03-01,Sunday,R2,BUS025,Railway Station,Tech Park,09:20,09:26,10:10,10:20,Cloudy,High,36
+T0592,2026-03-01,Sunday,R2,BUS034,Railway Station,Tech Park,19:00,19:01,19:50,19:53,Clear,Medium,50
+T0593,2026-03-01,Sunday,R2,BUS034,Railway Station,Tech Park,15:30,15:34,16:20,16:31,Cloudy,Medium,15
+T0594,2026-03-01,Sunday,R3,BUS014,Bus Terminal,Market Road,15:50,15:56,16:25,16:26,Clear,Medium,15
+T0595,2026-03-01,Sunday,R2,BUS016,Railway Station,Tech Park,18:30,18:30,19:20,19:24,Clear,Low,8
+T0596,2026-03-01,Sunday,R1,BUS006,City Centre,University,17:50,17:50,18:32,18:43,Clear,Medium,23
+T0597,2026-03-01,Sunday,R2,BUS035,Railway Station,Tech Park,15:00,15:06,15:50,15:52,Cloudy,Medium,14
+T0598,2026-03-01,Sunday,R2,BUS029,Railway Station,Tech Park,15:10,15:13,16:00,16:11,Clear,Medium,54
+T0599,2026-03-01,Sunday,R2,BUS029,Railway Station,Tech Park,06:50,06:54,07:40,07:48,Clear,Medium,43
+T0600,2026-03-01,Sunday,R3,BUS021,Bus Terminal,Market Road,16:50,16:50,17:25,17:36,Clear,Medium,54
