@@ -1,0 +1,21 @@
+## Bus Trip Delay Analysis Using Python
+
+This project focuses on analyzing bus transportation data to understand delay patterns and identify the factors that impact service punctuality. Using Python and data analysis libraries such as Pandas, NumPy, and Matplotlib, the dataset was cleaned, processed, and explored to extract meaningful insights from bus trip records.
+
+The analysis involved calculating arrival and departure delays by comparing scheduled times with actual travel times. Trips were then categorized as either delayed or on\-time, enabling a comprehensive evaluation of overall system performance. Key metrics such as total trips, delayed trips, average delay, maximum delay, and delay percentage were generated to measure operational efficiency.
+
+To better understand the causes of delays, the project examined the impact of several variables, including bus routes, traffic levels, weather conditions, day of the week, and time of day. Comparative analyses were performed to identify routes with higher average delays and determine how external factors such as congestion and adverse weather influence bus punctuality.
+
+The findings from this project can help transportation planners and transit operators make data\-driven decisions to improve scheduling, optimize route performance, reduce delays, and enhance passenger satisfaction. Additionally, the project serves as a practical demonstration of data cleaning, preprocessing, exploratory data analysis (EDA), and time\-based analytics using real\-world transportation data.
+
+**Key Skills Demonstrated:**
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Datetime Manipulation
+- Statistical Analysis
+- Grouping and Aggregation with Pandas
+- Transportation Data Analytics
+- Python Programming for Data Science
+- Performance and Delay Analysis
+
